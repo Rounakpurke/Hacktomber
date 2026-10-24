@@ -1,2 +1,2 @@
-# Hacktomber
-The Hacktomber project for 2026
+# Hacktober
+The Hacktober project for 2026
